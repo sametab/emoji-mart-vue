@@ -8,3 +8,5 @@ spec/
 example/
 karma.conf.js
 yarn.lock
+Dockerfile
+run.sh
